@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "AP Computer Science Principles Final Website"
 ---
 
-I'm glad you are here. I plan to talk about things
+Hello! My name is Rebecca Lee and you can find my social media information at the bottom of the page. 
