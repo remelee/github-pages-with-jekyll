@@ -7,3 +7,5 @@ One of the things I do is volunteer. Since eighth grade, when I first became eli
 Another fact about me is that I enjoy music. I know how to play two instruments, though technically three if you count the recorder. I started playing the piano and the violin in elementary school. I was part of the school orchestra for six years, and I still play the violin in my spare time. 
 
 During the summer of 2019, I attended a STEM summer camp. In the camp, I created a laptop using Raspberry Pi materials. On top of that, I also learned how to code in python. This camp helped to comfirm my interest in programming and STEM related courses. 
+
+9EF3A510-BDE9-440D-87F0-1DF1C3C376E5.jpeg 
