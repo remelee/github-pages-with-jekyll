@@ -8,4 +8,7 @@ Another fact about me is that I enjoy music. I know how to play two instruments,
 
 During the summer of 2019, I attended a STEM summer camp. In the camp, I created a laptop using Raspberry Pi materials. On top of that, I also learned how to code in python. This camp helped to comfirm my interest in programming and STEM related courses. 
 
+![image](https://user-images.githubusercontent.com/84459382/121375937-1c372300-c90f-11eb-8b11-633aa9aabbda.png)
+
+
 9EF3A510-BDE9-440D-87F0-1DF1C3C376E5.jpeg 
